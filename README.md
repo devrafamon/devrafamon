@@ -49,7 +49,9 @@ Estudante de Engenharia da Computação (UFS) com foco em desenvolvimento de API
 - Desenvolvimento de APIs REST com ASP.NET Core  
 - Implementação de CRUD e validação de regras de negócio  
 - Modelagem e consultas SQL para garantia de consistência  
-- Experiência com Git, SQL Server e AWS  
+- Experiência com Git, SQL Server e AWS
+- <a href="https://abre.ai/sgeesmp">Projeto "Sistema de Gestão de Eventos da Escola Superior - SGE/ESMP"</a> 
+    
 
 ---
 
