@@ -2,7 +2,7 @@
 
 **Back-End Developer | .NET | APIs REST | SQL**
 
-Estudante de Engenharia da Computação (UFS) com foco em desenvolvimento de APIs REST, modelagem de dados e implementação de regras de negócio utilizando o ecossistema .NET.
+Desenvolvedor backend em formação (UFS) com foco em C# e .NET, experiência na construção de APIs REST, operações CRUD e integração com bancos de dados relacionais. Vivência prática com Entity Framework Core, ASP.Net, SQL Server, Docker e AWS em projetos acadêmicos e aplicações reais.
 
 ---
 
