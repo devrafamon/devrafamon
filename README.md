@@ -50,7 +50,7 @@ Desenvolvedor backend em formação (UFS) com foco em C# e .NET, experiência na
 - Implementação de CRUD e validação de regras de negócio  
 - Modelagem e consultas SQL para garantia de consistência  
 - Experiência com Git, SQL Server e AWS
-- <a href="https://abre.ai/sgeesmp">Projeto "Sistema de Gestão de Eventos da Escola Superior - SGE/ESMP"</a> 
+  <!-- <a href="https://abre.ai/sgeesmp">Projeto "Sistema de Gestão de Eventos da Escola Superior - SGE/ESMP"</a> -->
     
 
 ---
